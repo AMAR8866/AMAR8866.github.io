@@ -104,3 +104,6 @@ deploy:
   type: git
   repo: https://github.com/AMAR8866/amar.github.io       
 branch: main
+
+
+skip_render: README.md
