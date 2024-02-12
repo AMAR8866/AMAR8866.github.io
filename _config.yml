@@ -102,8 +102,5 @@ theme: landscape
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/AMAR8866/amar.github.io       
+  repo: https://github.com/AMAR8866/AMAR8866.github.io       
 branch: main
-
-
-skip_render: README.md
