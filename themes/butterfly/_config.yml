@@ -1,9 +1,9 @@
 # Navigation bar settings (導航欄設置)
 # see https://butterfly.js.org/posts/4aa8abbe/##導航欄設置-Navigation-bar-settings
 # --------------------------------------
-
+#网站logo
 nav:
-  logo: https://s11.ax1x.com/2024/02/13/pF8DJR1.png
+  logo: https://s2.loli.net/2024/02/13/neX2aQ7WxmoIbCP.png
   display_title: true
   fixed: false # fixed navigation bar
 
@@ -49,7 +49,7 @@ social:
   # fab fa-github: https://github.com/xxxxx || Github || '#24292e'
   # fas fa-envelope: mailto:xxxxxx@gmail.com || Email || '#4a7dbe'
   fab fa-github: https://github.com/AMAR8866 || Github || '#24292e'
-  fas fa-envelope: 3098045561@.com || Email || '#4a7dbe'
+  fas fa-envelope: 3098045561@qq.com || Email || '#4a7dbe'
 
 
 # Image (圖片設置)
@@ -250,7 +250,7 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/AMAR8866
   card_announcement:
     enable: true
     content: This is my Blog
