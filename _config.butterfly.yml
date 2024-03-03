@@ -230,6 +230,7 @@ footer:
   custom_text:
   copyright: true # Copyright of theme and framework
 
+
 # aside (側邊欄)
 # --------------------------------------
 
@@ -661,7 +662,7 @@ text_align_justify: false
 # Website Background (設置網站背景)
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
-background: https://s2.loli.net/2024/02/13/Rjr4bMJmvop7dGV.jpg
+background: https://s2.loli.net/2024/02/13/Y1ZS4AK68QmcqCG.jpg
 
 # Footer Background
 footer_bg: true
