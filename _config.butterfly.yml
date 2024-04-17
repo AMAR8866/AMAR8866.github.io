@@ -664,7 +664,6 @@ text_align_justify: false
 # can set it to color or image (可設置圖片 或者 顔色)
 # The formal of image: url(http://xxxxxx.com/xxx.jpg)
 #background: url(https://s2.loli.net/2024/02/13/Y1ZS4AK68QmcqCG.jpg)
-
 background: url(https://s2.loli.net/2024/04/18/IHnapEUiPfzSg5r.jpg)
 #(https://s2.loli.net/2024/04/18/IHnapEUiPfzSg5r.jpg)
 #![wallhaven-l355g2.jpg](https://s2.loli.net/2024/04/18/Vel9BRnEQyC5sJf.jpg)
